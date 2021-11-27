@@ -1,7 +1,7 @@
 import numpy as np
 
 # Armazena os valores atuais dos pontos
-pontos = np.zeros(4)
+pontos = np.zeros(7)
 # Armazena os últimos valores dos pontos
 pontos_anterior = []
 
